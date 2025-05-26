@@ -32,13 +32,18 @@ ROS2         | 2 년        | Jimbot(모바일 로봇) 로직 개발
 > - 개발 환경: ROS
 > - Language: Python, C++
 > - Libraries: Numpy, CVXPY
->> [Project](https://github.com/tarkrop/erp42_planning_tracking)
+>> [Project](https://github.com/tarkrop/erp42_planning_tracking)<br>
+>> [Delivery Mission Test](https://drive.google.com/file/d/1SmOK9oXEkQVxyptGHSlc2sKIGF8F3_jd/view?usp=drive_link)<br>
+>> [Track Mission Test](https://drive.google.com/file/d/1SyHSJFMND0QvOzVXnNkPpIDcBsp-RVz2/view?usp=drive_link)<br>
+>> [First Preliminary Round](https://www.youtube.com/watch?v=BuifRXkDtxM)<br>
+>> [Second Preliminary Round](https://www.youtube.com/watch?v=bsNJADrdTH0)<br>
+>> [Final Round, 3:00:02~3:13:00](https://www.youtube.com/watch?v=dPtdy3fO3pk&t=16231s)
 
 <br />
 
 ## 2. ☕ SHARK 자율주행대회
 > - 대회 개요: MORAI Sim에서 자율주행 차량을 목적지까지 주행 및 미션 수행 _(MACARON6.0)_
-> - 성과: 연구계획서 합격 및 우수상 [News](https://www.morai.ai/ko/post/%EB%AA%A8%EB%9D%BC%EC%9D%B4-%EB%94%94%EC%A7%80%ED%84%B8%ED%8A%B8%EC%9C%88-%EC%84%B1%EB%82%A8%EC%8B%9C-%EA%B8%B0%EB%B0%98-%EC%83%A4%ED%81%AC%EC%9E%90%EC%9C%A8%EC%A3%BC%ED%96%89%EB%8C%80%ED%9A%8C-%EC%84%B1%EB%A3%8C)
+> - 성과: 우수상 수상 [News](https://www.morai.ai/ko/post/%EB%AA%A8%EB%9D%BC%EC%9D%B4-%EB%94%94%EC%A7%80%ED%84%B8%ED%8A%B8%EC%9C%88-%EC%84%B1%EB%82%A8%EC%8B%9C-%EA%B8%B0%EB%B0%98-%EC%83%A4%ED%81%AC%EC%9E%90%EC%9C%A8%EC%A3%BC%ED%96%89%EB%8C%80%ED%9A%8C-%EC%84%B1%EB%A3%8C)
 > - 개발기간: 2024.07.01-2024.08.30
 > - 핵심 역할: 경로 생성 및 경로 추종, 전면 주차, 차량 합류 구간, 장애물 회피, GPS 음영 구역 주행 
 > - 개발 환경: ROS
