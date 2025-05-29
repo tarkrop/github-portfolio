@@ -66,6 +66,7 @@ ROS2         | 2 년        | Jimbot(모바일 로봇) 로직 개발
 >> [Controller](https://github.com/tarkrop/jim_control)<br>
 >> [Navigation](https://github.com/tarkrop/jimbot_navigation)<br>
 >> [Motor](https://github.com/tarkrop/jimbot_node)<br>
+>> [Final Presentation Video](https://youtu.be/lq19V-eIPYQ?si=oj2hGvtNKPG_Vh7t)
 
 <br />
 
