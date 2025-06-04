@@ -51,7 +51,7 @@ ROS2         | 2 년        | Jimbot(모바일 로봇) 로직 개발
 > - Libraries: Numpy, CVXPY
 > - SLAM & LiDAR: FAST_LIO2
 >> [Project](https://github.com/tarkrop/Shark_MORAI_Simulator_for_AutonomousDriving.git)<br>
->> [Parking Test](https://drive.google.com/file/d/1QW4Fm-bD907FvkDUSZUhTCjOtnz7uVCn/view?usp=drive_link)
+>> [Parking Test](https://drive.google.com/file/d/1KsHJxgvTh9SlpRItZNSRvf3LhdHBo52y/view?usp=drive_link)
 
 <br />
 
